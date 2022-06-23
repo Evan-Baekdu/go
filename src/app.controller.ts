@@ -12,6 +12,7 @@ export class AppController {
 
   @Get()
   ping(): string {
-    return 'Pongs';
+    return 'Pongss';
   }
+  //taeheegogo-ec2
 }
